@@ -7,7 +7,6 @@ function Navbar() {
       <div>Logo</div>
       <div className={styles.nav_1}>
         <Links />
-        <span className={styles.login}>Logout</span>
       </div>
     </div>
   );
