@@ -11,7 +11,7 @@ Website [Site](https://hadiuzzaman.netlify.app) Link.
 # First, clone the Repository:
 
 ```bash
-git remote add origin https://github.com/HadiAnik/demo-next-app-tailwind.git
+git remote add origin https://github.com/HadiAnik/all-demo-next-app.git
 ```
 
 # Second, Install all require dependencies or Package:
