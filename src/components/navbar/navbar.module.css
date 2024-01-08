@@ -1,0 +1,43 @@
+.container {
+  /* background-color: #fff5; */
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 0;
+}
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+.nav_item {
+  text-align: center;
+  padding: 5px 20px;
+  border-radius: 20px;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.active {
+  background-color: var(--text);
+  color: var(--bg);
+}
+
+.nav_1 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.login {
+  text-align: center;
+  padding: 5px 10px;
+  border-radius: 8px;
+  font-weight: 500;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: var(--btn);
+  color: var(--text);
+}
+.login:hover {
+  background-color: var(--text);
+  color: var(--bg);
+}
